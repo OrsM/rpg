@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+
+title: "RPG"
+description: "Enlaces interesantes"
+locale: "es_ES"
+name: "RPG"
+
+github:
+  is_project_page: false
