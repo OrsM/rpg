@@ -9,3 +9,4 @@ Descargas gratuitas
 
 Campañas
 - [CoC](https://morganhua.blogspot.com/2021/11/cthulhu-campaigns-run-times-and-thoughts.html?m=1#MoN)
+- [One shot GURPS scenarios](https://1shotadventures.com/1shot-adventures-gurps/)
